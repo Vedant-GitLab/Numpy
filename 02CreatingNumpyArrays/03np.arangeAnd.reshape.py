@@ -6,5 +6,5 @@ import numpy as np
 # print(b)
 
 #np.reshape : is used to convert the numpy array in other shape
-c = np.arange(1,13).reshape(3,4) #5 rows and 2 columns
+c = np.arange(1,13).reshape(3,4) #3 rows and 4 columns
 print(c)
