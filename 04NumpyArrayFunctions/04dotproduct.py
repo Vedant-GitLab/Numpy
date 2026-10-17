@@ -6,5 +6,5 @@ a3 = np.arange(12,24).reshape(4,3)
 
 #DotProduct : It is used to calculate the dot product of two matrix, And dpt product tbhi hi possible hai jb pehli matrix ke row dusre matrix ke column se equal ho.
 
-a2 =np.dot(a2,a3)
+a2 =np.dot(a2,a3)  #ye possible hai qki a2 ki row a3 ke column ke equal hai isliye resultand matrix 3,3 ki hogi
 print(a2)
