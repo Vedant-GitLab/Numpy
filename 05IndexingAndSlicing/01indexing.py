@@ -1,3 +1,5 @@
+#in indexing we can only fetch only 1 item at aa time it starts from 0 in +ve and in -ve from -1
+
 import numpy as np
 a1 = np.arange(10)  #1D 
 a2 = np.arange(12).reshape(3,4)  #2D
