@@ -16,4 +16,5 @@ Broadcasting Rules
       
     If there is a dimension whose size is not 1 in either of the two arrays, it cannot be broadcasted, and an error is raised.
 
-    
+
+ISKA SABSE BADA USE VECTORIZATION ME HAI. ISKA USE HUMLOG MANUALLY NHI KRTE ISKO NUMPY AUTOMATICALLY ADOPT KR LETA HAI.
