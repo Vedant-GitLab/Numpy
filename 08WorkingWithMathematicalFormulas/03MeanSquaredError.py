@@ -7,5 +7,5 @@ print(actual)
 print(predicted)
 
 def mse(actual, predicted):
-    return np.mean((actual-predicted)**2 )
+    return np.mean((actual-predicted)**2)
 print(mse(actual,predicted))
