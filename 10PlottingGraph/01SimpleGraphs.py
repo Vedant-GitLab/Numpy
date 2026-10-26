@@ -1,4 +1,5 @@
 #plotting is a technique to make a graph. In which we use matplot library. (hum iske baare me baad me pdhenge)
+#2D graphs : 
 
 import numpy as np
 x = np.linspace(-10,10,100) #here we just take 100 random numbers from -10 to 10
